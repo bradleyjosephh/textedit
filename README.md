@@ -18,6 +18,7 @@
     Live Link: https://text-edit-heroku.herokuapp.com/
 
 
+![textedit](https://user-images.githubusercontent.com/93616520/153937364-da8ff85c-1910-4c04-b61b-8951b8981c46.png)
 
 
   --
